@@ -1,0 +1,8 @@
+{
+  "name": "tampermonkey-plugins",
+  "version": "1.0.0",
+  "author": "chaimzhang",
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
+}
